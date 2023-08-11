@@ -2,4 +2,4 @@
 
 - 👀 I’m interested in game developement
 
-- 🌱 I’m currently learning C++ and raylib library
+- 🌱 I’m currently learning C++
